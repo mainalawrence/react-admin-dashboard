@@ -96,7 +96,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`../../assets/user.png`}
+                  src={`https://scontent.fnbo1-1.fna.fbcdn.net/v/t39.30808-1/348214311_952763082591146_5065584383227559744_n.jpg?stp=dst-jpg_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=fe8171&_nc_ohc=yGORt1jGK_cAX9Bc6X7&_nc_ht=scontent.fnbo1-1.fna&oh=00_AfDjvO4ZXtta-yKRK0d4FWGF38rJjrctTAgbNtpJcnoUuA&oe=652B5EB4`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
@@ -107,10 +107,10 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Ed Roh
+                  lmk
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                  Lawrence Maina
                 </Typography>
               </Box>
             </Box>
